@@ -14,9 +14,29 @@ Apache Tomcat
 
 https://tomcat.apache.org/
 
+Cherokee Server
+
+http://cherokee-project.com/
+
 Lighttpd
 
 https://www.lighttpd.net/
+
+Caddy Server
+
+https://caddyserver.com/
+
+Monkey Server
+
+http://monkey-project.com/
+
+Open Lite Speed Server
+
+https://www.litespeedtech.com/open-source/openlitespeed
+
+
+
+
 
 App Servers
 
