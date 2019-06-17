@@ -1,0 +1,9 @@
+https://dzone.com/articles/how-to-secure-apache-web-server-with-modevasive-on
+https://www.tecmint.com/apache-security-tips/
+https://www.apachecon.eu/
+https://geekflare.com/apache-web-server-hardening-security/
+https://geekflare.com/10-best-practices-to-secure-and-harden-your-apache-web-server/
+https://acodez.in/web-server-hardening-checklist/
+http://wpsecure.net/server-guide/
+https://www.netnea.com/cms/apache-tutorial-6_embedding-modsecurity/
+https://www.petefreitag.com/item/505.cfm
