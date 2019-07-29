@@ -34,6 +34,7 @@ Open Lite Speed Server
 
 https://www.litespeedtech.com/open-source/openlitespeed
 
+https://www.linuxbabe.com/ubuntu/install-phpmyadmin-apache-lamp-ubuntu-18-04
 
 
 
