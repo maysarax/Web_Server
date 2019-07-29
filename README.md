@@ -49,3 +49,11 @@ https://php-fpm.org/
 https://uwsgi-docs.readthedocs.io/en/latest/index.html
 
 
+
+Reference
+
+https://www.linuxbabe.com/ubuntu/install-lamp-stack-ubuntu-18-04-server-desktop
+
+
+
+
